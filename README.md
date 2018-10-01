@@ -19,7 +19,7 @@ Description: A workshop to learn about FAIR, principles, metrics, and ecosystem,
 
 1230 Lunch
 
-1330 Work on FAIR Assessment in Garden Room
+1330 FAIR Assessment 
 
 1415 Submit FAIR Assessment
 
