@@ -19,7 +19,7 @@ Description: A workshop to learn about FAIR, principles, metrics, and ecosystem,
 
 1230 Lunch
 
-1330 FAIR Assessment 
+1330 [Performing a FAIR Assessment](https://docs.google.com/presentation/d/1DB7VOPYGEQQRy6O0pTe-MI7okZGHaiRjb0BmuZLLo1g/edit?usp=sharing)
 
 1415 Submit FAIR Assessment
 
