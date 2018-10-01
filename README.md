@@ -15,7 +15,7 @@ Description: A workshop to learn about FAIR, principles, metrics, and ecosystem,
 
 1100am Plenary talk: [FAIR](2018-Dumontier-FAIRCDR-FAIR.pptx)
 
-1130am Workshop Begins: [Elaboration](Elaboration of the FAIR principles and metrics .pdf)
+1130am Workshop Begins: [Elaboration](ElaborationoftheFAIRprinciplesandmetrics.pdf)
 
 1230 Lunch
 
